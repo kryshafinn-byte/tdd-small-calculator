@@ -11,7 +11,6 @@ def multiply(a, b):
     """Return the answer of the two digits."""
     return a * b
 
-
 def divide(a, b):
     """Return the answer of two digits. If b is zero, show an error."""
     if b == 0:
